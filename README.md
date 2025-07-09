@@ -29,7 +29,7 @@ The dataset appears to be CSV-based and includes:
 - `Occupancy`, `Capacity`
 
 Loaded from Google Drive:
-```python
+``python
 df = pd.read_csv("/content/drive/My Drive/Colab Notebooks/capstone project/dataset.csv")
 
 ##Requirements
