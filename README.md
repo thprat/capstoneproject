@@ -18,7 +18,10 @@ The notebook includes:
 - - Visualizes computed prices over time for a selected parking lot.
 - Uses Matplotlib for time series visualizations.
 
-## Dataset
+- Visualizes computed prices over time for a selected parking lot.
+- Uses Matplotlib for time series visualizations.
+
+## 🗃 Dataset
 
 The dataset appears to be CSV-based and includes:
 - `SystemCodeNumber` (Lot ID)
@@ -26,9 +29,9 @@ The dataset appears to be CSV-based and includes:
 - `Occupancy`, `Capacity`
 
 Loaded from Google Drive:
-python
+```python
 df = pd.read_csv("/content/drive/My Drive/Colab Notebooks/capstone project/dataset.csv")
- 
+
 ##Requirements
 This project is run on Google Colab and uses:
 
