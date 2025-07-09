@@ -56,8 +56,5 @@ pip install pandas matplotlib
 - Time series plots showing how prices adapt over time.
 - Tabular output of computed prices with date and occupancy context.
 
-##  Author
-
-- Prateek Verma
 
 
